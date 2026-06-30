@@ -7,6 +7,7 @@ from langchain_core.runnables.history import RunnableWithMessageHistory
 
 #load api_key
 load_dotenv()
+#files
 #AI obj
 model=ChatOpenAI()
 
